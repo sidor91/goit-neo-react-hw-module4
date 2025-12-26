@@ -1,0 +1,9 @@
+.loadMoreBtn {
+  background-color: rgb(66, 80, 174);
+  padding: 8px 16px;
+  color: white;
+  outline: none;
+  border: none;
+  display: block;
+  margin: 0 auto 32px;
+}

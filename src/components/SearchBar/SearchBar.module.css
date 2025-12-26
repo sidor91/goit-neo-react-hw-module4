@@ -1,0 +1,13 @@
+.header {
+  background-color: rgb(66, 80, 174);
+  padding: 8px 0;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.input {
+  width: 200px;
+  margin-right: 8px;
+}
